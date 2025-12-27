@@ -1,0 +1,8 @@
+{
+  "name": "Copy of DesignFlow AI Studio",
+  "description": "A professional, mobile-first AI UI/UX designer studio powered by Gemini 3 Pro and Flash Image models. Generate, edit, and export mobile app interfaces instantly.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
